@@ -1,6 +1,5 @@
 # Summary
 * [简介](README.md)
-* [最新封面](https://bilicover.gitbooks.io/2017/20171228.md)
 
 ## 快捷跳转
 * [2015年](https://bilicover.gitbooks.io/2015/)
