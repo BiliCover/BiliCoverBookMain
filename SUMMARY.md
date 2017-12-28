@@ -3,7 +3,7 @@
 * [最新封面](2017/20171228.md)
 
 ## 快捷跳转
-* [2015年](2015/)
+* [2015年](https://bilicover.gitbooks.io/2015/)
 * [2016年](https://bilicover.gitbooks.io/2016/)
 * [2017年](https://bilicover.gitbooks.io/2017/)
 
