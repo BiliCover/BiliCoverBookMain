@@ -5,6 +5,7 @@
 * [2015年](https://bilicover.gitbooks.io/2015/)
 * [2016年](https://bilicover.gitbooks.io/2016/)
 * [2017年](https://bilicover.gitbooks.io/2017/)
+* [2018年](https://bilicover.gitbooks.io/2018/)
 
 ## 生日封面
   * [生日默认封面](birthday/00.md)
