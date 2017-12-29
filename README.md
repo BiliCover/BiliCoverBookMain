@@ -10,7 +10,8 @@
 1. [2015年](https://bilicover.gitbooks.io/2015/)
 2. [2016年](https://bilicover.gitbooks.io/2016/)
 3. [2017年](https://bilicover.gitbooks.io/2017/)
-4. [返回舊版(已废弃)](https://bilicover.github.io/index_old.html)
+4. [2018年](https://bilicover.gitbooks.io/2018/)
+5. [返回舊版(已废弃)](https://bilicover.github.io/index_old.html)
 
 ### 收藏来源：
 1. 2015年-2016/09/12由[@夜猫女](http://space.bilibili.com/7464773)收藏、整理（部份收藏来自兴趣圈），整理至2016/09/12。
