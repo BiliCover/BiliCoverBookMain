@@ -7,10 +7,10 @@
 3. 有些日期有两张图，第一张是安卓客户端，第二张是iPad平板截图。
 
 ### 快捷跳转：
-1. [2015年](https://bilicover.gitbooks.io/2015/)
-2. [2016年](https://bilicover.gitbooks.io/2016/)
-3. [2017年](https://bilicover.gitbooks.io/2017/)
-4. [2018年](https://bilicover.gitbooks.io/2018/)
+1. [2015年](https://bilicover.gitbooks.io/2015/content/)
+2. [2016年](https://bilicover.gitbooks.io/2016/content/)
+3. [2017年](https://bilicover.gitbooks.io/2017/content/)
+4. [2018年](https://bilicover.gitbooks.io/2018/content/)
 5. [返回舊版(已废弃)](https://bilicover.github.io/index_old.html)
 
 ### 收藏来源：
