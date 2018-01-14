@@ -21,6 +21,5 @@
 ### [欢迎加群交流：](https://jq.qq.com/?_wv=1027&k=5CFpBt7)
 ![](https://bilicoverimg.github.io/qrcode.jpg)
 
-### [反饋問題：https://wj.qq.com/s/1788539/993c](https://wj.qq.com/s/1788539/993c)
 ---
 ![](https://worldflagcounter.com/dwo/)
