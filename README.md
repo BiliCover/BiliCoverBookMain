@@ -7,11 +7,8 @@
 3. 有些日期有两张图，第一张是安卓客户端(1080x1920)，第二张是iPad平板截图(2048x2732)。
 
 ### 快捷跳转：
-1. [2015年](https://bilicover.gitbooks.io/2015/content/)
-2. [2016年](https://bilicover.gitbooks.io/2016/content/)
-3. [2017年](https://bilicover.gitbooks.io/2017/content/)
-4. [2018年](https://bilicover.gitbooks.io/2018/content/)
-5. [生日贺图](birthday/00.md)
+* [生日贺图](birthday/00.md)
+* [回主页](https://bilicover.github.io/)
 
 ### 收藏来源：
 1. 2015年-2016/09/12由[@夜猫女](http://space.bilibili.com/7464773)收藏、整理（部份收藏来自兴趣圈），整理至2016/09/12。
